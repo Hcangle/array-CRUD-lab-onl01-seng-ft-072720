@@ -6,7 +6,7 @@ def create_an_array
    famous_cats = ["lil' bub", "grumpy cat", "Maru", "Tony"]
 end
    
-def add_element_to_end_of_array(array, "Pit Bull")
+def add_element_to_end_of_array(array, Pit Bull)
  cute_dogs = ["Doberman", "Dalmation", "Corgi"]
  cute_dogs << "Pit Bull"
  
